@@ -79,6 +79,7 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 <div align="center">
     <img alt="MyUnityPlatformer Preview" src="preview.png" width="200">
 </div>
+
 ---
 
 Thank you for checking out **MyUnityPlatformer**! Have fun developing and playing the game.
