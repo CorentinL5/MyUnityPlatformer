@@ -87,4 +87,4 @@ Thank you for checking out **MyUnityPlatformer**! Have fun developing and playin
 ---
 
 > [!CAUTION]
-> The project is no longer active. You can try the APK app in the `.build/` directory [here](.build).
+> The project is no longer active.
